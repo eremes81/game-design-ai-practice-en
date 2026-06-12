@@ -129,7 +129,7 @@ Document folders divide permissions along the Layer structure (L0–L4). The hig
 | docs/L1_systems/ | domain director write, everyone read |
 | docs/L2_content/ | owner read/write |
 | docs/L4_meta/ | everyone write |
-| team_memory/<per-user>/ | owner-only read/write |
+| team_memory/per-user/ | owner-only read/write |
 
 Vision (L0): only the director writes, everyone reads. Systems (L1): the domain director writes. Content (L2): the owner writes; meta and scratch (L4): anyone writes. Personal memory is accessible only to its owner. The Layer structure itself is covered in Part 6.
 
