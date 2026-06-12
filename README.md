@@ -6,6 +6,8 @@
 [![Korean Original](https://img.shields.io/badge/Original-%ED%95%9C%EA%B5%AD%EC%96%B4%ED%8C%90%20(Korean)-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
 [![Print Edition (KR)](https://img.shields.io/badge/BOOKK-Print%20Edition%20(Korean)-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 
+**🌐 Editions:** [한국어 — Original](https://github.com/eremes81/game-design-ai-practice) · **English** · [日本語](https://github.com/eremes81/game-design-ai-practice-ja)
+
 <img src="assets/cover.png" alt="Cover" width="320">
 
 A hands-on field manual by a design director with 24 years in the game industry on bringing generative AI (Claude Code) into **daily production work**. Not theory or forecasts — it walks one task at a time from the very first screen (install, accounts, pricing) through systems design, combat, narrative, level design, balance, UX, and live ops, all the way to turning meeting notes into decisions, validation gates, cost management, and copyright.
