@@ -47,6 +47,10 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 
 This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
 
+## 🎁 Launch Discount
+
+> **[👉 Get 30% off with coupon LAUNCH30 — buy for $13.30](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30)** — Regular price $19 · Unlimited · No expiry
+
 ## Full Table of Contents
 
 > **24 parts + appendices A\~N + epilogue · 100 chapters.** Appendices live in [`manuscript/part99-appendix/`](manuscript/part99-appendix), the colophon in [`manuscript/_colophon.md`](manuscript/_colophon.md).
