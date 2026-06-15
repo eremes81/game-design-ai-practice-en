@@ -5,6 +5,7 @@
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Korean Original](https://img.shields.io/badge/Original-%ED%95%9C%EA%B5%AD%EC%96%B4%ED%8C%90%20(Korean)-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
 [![Print Edition (KR)](https://img.shields.io/badge/BOOKK-Print%20Edition%20(Korean)-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
+[![Amazon Kindle (EN)](https://img.shields.io/badge/Amazon%20Kindle-%249.99-FF9900.svg)](https://www.amazon.com/dp/B0H421TWBM)
 
 **🌐 Editions:** [한국어 — Original](https://github.com/eremes81/game-design-ai-practice) · **English** · [日本語](https://github.com/eremes81/game-design-ai-practice-ja)
 
@@ -47,9 +48,12 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 
 This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
 
-## 🎁 Launch Discount
+## 🛒 Get the E-book
 
-> **[👉 Get 30% off with coupon LAUNCH30 — buy for $13.30](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30)** — Regular price $19 · Unlimited · No expiry
+- **Amazon Kindle (English):** [**$9.99 on Amazon**](https://www.amazon.com/dp/B0H421TWBM) — also on Amazon UK, DE, FR, JP, and other regional stores
+- **Leanpub (pay what you want):** [**30% off with coupon `LAUNCH30` — $13.30**](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30) — regular $19 · unlimited · no expiry
+
+> The full manuscript is **free to read** in this repository (CC BY-NC-SA). These editions are for readers who want a polished e-book — and a way to support the author.
 
 ## Full Table of Contents
 
