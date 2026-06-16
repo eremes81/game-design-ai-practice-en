@@ -35,16 +35,16 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 - **[1.0 Before You Start — Install, Account, Pricing, and the Terminal Survival Kit](manuscript/part01-foundation/chapter-0-setup-survival-kit.md)** — follow along from the very first screen
 - Diagrams are written as ` ```mermaid ` code blocks and **render natively on GitHub**. Click any chapter below and read.
 
-## The Original Print Edition (Korean)
+## The Original Korean Edition (Print & PDF)
 
 | | |
 |---|---|
 | Author | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
-| Publisher | BOOKK · paperback (Korean) |
+| Publisher | BOOKK · paperback & PDF eBook (Korean) |
 | ISBN | 979-11-12-21479-9 |
 | Published | 2026-06-11 |
 | Size | 876 pages · 24 parts + appendices A\~N + epilogue |
-| Buy | **[BOOKK store (Korean print edition)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** |
+| Buy | **[Paperback ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF eBook ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
 
 This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
 
