@@ -39,7 +39,7 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 
 | | |
 |---|---|
-| Author | Minsoo Lee (이민수) |
+| Author | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
 | Publisher | BOOKK · paperback (Korean) |
 | ISBN | 979-11-12-21479-9 |
 | Published | 2026-06-11 |
