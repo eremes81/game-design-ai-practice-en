@@ -11,9 +11,17 @@
 
 <img src="assets/cover.png" alt="Cover" width="320">
 
-A hands-on field manual by a design director with 24 years in the game industry on bringing generative AI (Claude Code) into **daily production work**. Not theory or forecasts — it walks one task at a time from the very first screen (install, accounts, pricing) through systems design, combat, narrative, level design, balance, UX, and live ops, all the way to turning meeting notes into decisions, validation gates, cost management, and copyright.
+A hands-on field manual by **Minsoo Lee** — a game designer of 24 years, former **design team lead on Ragnarok Online** (2002–2007), now a Design Director shipping an MMORPG in Korea — on bringing generative AI (Claude Code) into **daily production work**. Not theory or forecasts — it walks one task at a time from the very first screen (install, accounts, pricing) through systems design, combat, narrative, level design, balance, UX, and live ops, all the way to turning meeting notes into decisions, validation gates, cost management, and copyright.
 
 The subtitle — **"No Fabricated Numbers"** — is this book's promise. Every figure and case in the text comes from real work, not invented examples, and most of the code runs as is on the Python standard library alone.
+
+**What's inside:**
+
+- **Schema-first data design** — the table schema and legal value ranges come before the AI writes a single row
+- **Validation gates** that catch AI-invented numbers, IDs, and dangling references before they reach the data sheets
+- **Meeting notes → tracked decisions** — decision, owner, and rationale extracted and greppable
+- **AI cost management in code** — token budgets enforced by scripts, not by good intentions
+- Balance simulation, procedural content pipelines, UX lint, live-ops workflows, and a team adoption strategy for leads
 
 The book is open to readers outside games, too. Workflows like turning meeting notes into decisions, tracing a decision's ripple effects, and guarding quality with validation gates work regardless of your job. The "Beyond Games" box in each chapter is the bridge, and every chapter also carries a "Solo Scale-Down" for people building alone, with no team.
 
@@ -31,29 +39,14 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 
 ## 📖 Start Reading
 
+- **If you only read one chapter:** [22.2 The Colleague Who Lies with Confidence — Stopping Hallucinations with a Verification Gate](manuscript/part22-governance/chapter-2-ai-safety-hallucination.md) — the book's method in one sitting
 - **[Preface · How to Read This Book](manuscript/_front-matter.md)** — start here for the reading routes
 - **[1.0 Before You Start — Install, Account, Pricing, and the Terminal Survival Kit](manuscript/part01-foundation/chapter-0-setup-survival-kit.md)** — follow along from the very first screen
 - Diagrams are written as ` ```mermaid ` code blocks and **render natively on GitHub**. Click any chapter below and read.
 
-## The Original Korean Edition (Print & PDF)
+## About the Author
 
-| | |
-|---|---|
-| Author | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
-| Publisher | BOOKK · paperback & PDF eBook (Korean) |
-| ISBN | 979-11-12-21479-9 |
-| Published | 2026-06-11 |
-| Size | 876 pages · 24 parts + appendices A\~N + epilogue |
-| Buy | **[Paperback ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF eBook ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
-
-This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
-
-## 🛒 Get the E-book
-
-- **Amazon Kindle (English):** [**$9.99 on Amazon**](https://www.amazon.com/dp/B0H421TWBM) — also on Amazon UK, DE, FR, JP, and other regional stores
-- **Leanpub (pay what you want):** [**30% off with coupon `LAUNCH30` — $13.30**](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30) — regular $19 · unlimited · no expiry
-
-> The full manuscript is **free to read** in this repository (CC BY-NC-SA). These editions are for readers who want a polished e-book — and a way to support the author.
+**Minsoo Lee (이민수)** has been a game designer since 2002 — design team lead on **Ragnarok Online** at Gravity (2002–2007), and today a Design Director on an MMORPG in production in Korea. This book is the field record of bringing Claude Code into that team's daily design work. · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/)
 
 ## Full Table of Contents
 
@@ -76,7 +69,7 @@ This repository is the **English edition (markdown source)** of the same book, r
 ### Part 3 · Systems Design
 
 - [3.1 The Systems Designer's Work and Layer Coordinates](manuscript/part03-system-design/chapter-09-system-designer-and-layer.md)
-- [3.2 Schema First — The $스키마 Sheet Comes Before the Data](manuscript/part03-system-design/chapter-10-schema-first.md)
+- [3.2 Schema First — The $schema Sheet Comes Before the Data](manuscript/part03-system-design/chapter-10-schema-first.md)
 - [3.3 Relation Map Visualization — Seeing Dependencies with Your Own Eyes](manuscript/part03-system-design/chapter-11-relation-map.md)
 - [3.4 Prompt Patterns for AI-Assisted Systems Design](manuscript/part03-system-design/chapter-12-ai-assist-prompt-patterns.md)
 
@@ -236,6 +229,26 @@ This repository is the **English edition (markdown source)** of the same book, r
 
 
 ---
+
+## 🛒 Editions & E-books
+
+> The full manuscript is **free to read** in this repository (CC BY-NC-SA). The editions below are for readers who want a polished e-book or the print original — and a way to support the author.
+
+- **Amazon Kindle (English):** [**$9.99 on Amazon**](https://www.amazon.com/dp/B0H421TWBM) — also on Amazon UK, DE, FR, JP, and other regional stores
+- **Leanpub (pay what you want):** [**30% off with coupon `LAUNCH30` — $13.30**](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30) — regular $19 · unlimited · no expiry
+
+### The Original Korean Edition (Print & PDF)
+
+| | |
+|---|---|
+| Author | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
+| Publisher | BOOKK · paperback & PDF eBook (Korean) |
+| ISBN | 979-11-12-21479-9 |
+| Published | 2026-06-11 |
+| Size | 876 pages · 24 parts + appendices A\~N + epilogue |
+| Buy | **[Paperback ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF eBook ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
+
+This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
 
 ## License
 
