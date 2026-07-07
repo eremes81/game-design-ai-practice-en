@@ -1,5 +1,5 @@
 ---
-title: "3.2 Schema First — The $스키마 Sheet Comes Before the Data"
+title: "3.2 Schema First — The $schema Sheet Comes Before the Data"
 part: 3
 chapter: 10
 status: v3
@@ -9,7 +9,7 @@ author: 이민수
 ip_check: done
 ---
 
-# 3.2 Schema First — The $스키마 Sheet Comes Before the Data
+# 3.2 Schema First — The $schema Sheet Comes Before the Data
 
 Monday morning. A new designer had filled in 120 rows of the skill sheet; we built them to csv, and 28 red lines appeared in the client log. `class_id` references entry 47, but the class sheet has no 47. In the `element` column, someone wrote `Fire`, someone else wrote `fire`, and one row reads `화염` — "flame," written out in Korean. Tracing 28 red lines by hand, one at a time, eats half an afternoon.
 

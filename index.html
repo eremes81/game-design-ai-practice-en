@@ -2991,7 +2991,7 @@ Therefore <code>effect_id == 0</code> is not a (C) violation. Report only empty 
 <li>What gets automated is the jumping-and-cross-checking labor; confirming bugs and vetoing false positives — the judgment — stays with the human</li>
 </ul>
 
-<h1>3.2 Schema First — The $스키마 Sheet Comes Before the Data</h1>
+<h1>3.2 Schema First — The $schema Sheet Comes Before the Data</h1>
 <p>Monday morning. A new designer had filled in 120 rows of the skill sheet; we built them to csv, and 28 red lines appeared in the client log. <code>class_id</code> references entry 47, but the class sheet has no 47. In the <code>element</code> column, someone wrote <code>Fire</code>, someone else wrote <code>fire</code>, and one row reads <code>화염</code> — "flame," written out in Korean. Tracing 28 red lines by hand, one at a time, eats half an afternoon.</p>
 <p>The cause of this incident is not that the data was wrong. It is that <strong>nobody wrote down, before the data was created, the rules the data had to follow.</strong> When the rules live only in someone's head, the rules change the moment the person changes. This chapter covers a workflow that creates the rules — the schema — before the data. And it puts the enforcement of those rules into the hands of tools, as documents, not into human hands.</p>
 <hr />
