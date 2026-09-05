@@ -237,16 +237,16 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 - **Amazon Kindle (English):** [**$9.99 on Amazon**](https://www.amazon.com/dp/B0H421TWBM) — also on Amazon UK, DE, FR, JP, and other regional stores
 - **Leanpub (pay what you want):** [**30% off with coupon `LAUNCH30` — $13.30**](https://leanpub.com/aiworkflowforgamedesigners/c/LAUNCH30) — regular $19 · unlimited · no expiry
 
-### The Original Korean Edition (Print & PDF)
+### The Original Korean Edition (Print, PDF & EPUB)
 
 | | |
 |---|---|
 | Author | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
-| Publisher | BOOKK · paperback & PDF eBook (Korean) |
+| Publisher | BOOKK · paperback & PDF eBook / uPaper · EPUB eBook (Korean) |
 | ISBN | 979-11-12-21479-9 |
 | Published | 2026-06-11 |
 | Size | 876 pages · 24 parts + appendices A\~N + epilogue |
-| Buy | **[Paperback ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF eBook ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** |
+| Buy | **[Paperback ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF eBook ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** · **[EPUB eBook ₩15,000 (uPaper)](https://eremes.upaper.kr/content/1217657)** |
 
 This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
 
