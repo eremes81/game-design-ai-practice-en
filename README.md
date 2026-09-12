@@ -10,6 +10,11 @@
 
 **🌐 Editions:** [한국어 — Original](https://github.com/eremes81/game-design-ai-practice) · **English** · [日本語](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
+> 🧰 **Companion tooling — [Harness Starter Kit](https://github.com/eremes81/harness-starter-kit)**
+> A minimal, runnable version of the memory, hook and retrospective structure this book builds in 1.3, Part 21 and Part 24. Download the folder, open it in an agent, and it works.
+> Built as the appendix to the author's other book (for general office work), but the skeleton is the same one described here. MIT licensed.
+
+
 <img src="assets/cover.png" alt="Cover" width="320">
 
 A hands-on field manual by **Minsoo Lee** — a game designer of 24 years, former **design team lead on Ragnarok Online** (2002–2007), now a Design Director shipping an MMORPG in Korea — on bringing generative AI (Claude Code) into **daily production work**. Not theory or forecasts — it walks one task at a time from the very first screen (install, accounts, pricing) through systems design, combat, narrative, level design, balance, UX, and live ops, all the way to turning meeting notes into decisions, validation gates, cost management, and copyright.
