@@ -6,6 +6,7 @@
 [![Korean Original](https://img.shields.io/badge/Original-%ED%95%9C%EA%B5%AD%EC%96%B4%ED%8C%90%20(Korean)-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
 [![Print Edition (KR)](https://img.shields.io/badge/BOOKK-Print%20Edition%20(Korean)-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![Amazon Kindle (EN)](https://img.shields.io/badge/Amazon%20Kindle-%249.99-FF9900.svg)](https://www.amazon.com/dp/B0H421TWBM)
+[![WikiDocs (KR)](https://img.shields.io/badge/WikiDocs-Read%20Free%20(Korean)-1f8b4c.svg)](https://wikidocs.net/book/20216)
 
 **🌐 Editions:** [한국어 — Original](https://github.com/eremes81/game-design-ai-practice) · **English** · [日本語](https://github.com/eremes81/game-design-ai-practice-ja) · [ไทย](https://github.com/eremes81/game-design-ai-practice-th) · [Bahasa Indonesia](https://github.com/eremes81/game-design-ai-practice-id) · [简体中文](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [繁體中文](https://github.com/eremes81/game-design-ai-practice-zh-hant)
 
