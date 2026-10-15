@@ -4,7 +4,6 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
 [![Korean Original](https://img.shields.io/badge/Original-%ED%95%9C%EA%B5%AD%EC%96%B4%ED%8C%90%20(Korean)-blue.svg)](https://github.com/eremes81/game-design-ai-practice)
-[![Print Edition (KR)](https://img.shields.io/badge/BOOKK-Print%20Edition%20(Korean)-orange.svg)](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)
 [![Amazon Kindle (EN)](https://img.shields.io/badge/Amazon%20Kindle-%249.99-FF9900.svg)](https://www.amazon.com/dp/B0H421TWBM)
 [![WikiDocs (KR)](https://img.shields.io/badge/WikiDocs-Read%20Free%20(Korean)-1f8b4c.svg)](https://wikidocs.net/book/20216)
 
@@ -252,7 +251,6 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 | ISBN | 979-11-12-21479-9 |
 | Published | 2026-06-11 |
 | Size | 876 pages · 24 parts + appendices A\~N + epilogue |
-| Buy | **[Paperback ₩61,600](https://bookk.co.kr/bookStore/6a298be0ff49b1a6034c7703)** · **[PDF eBook ₩15,000](https://bookk.co.kr/bookStore/6a2c8a6fd9d0a3ee9fe4c9eb)** · **[EPUB eBook ₩15,000 (uPaper)](https://eremes.upaper.kr/content/1217657)** |
 
 This repository is the **English edition (markdown source)** of the same book, released under the license below. The Korean original is at [eremes81/game-design-ai-practice](https://github.com/eremes81/game-design-ai-practice), and the Japanese edition at [eremes81/game-design-ai-practice-ja](https://github.com/eremes81/game-design-ai-practice-ja).
 
