@@ -4,7 +4,7 @@ part: 10
 chapter: 3
 status: v3
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 10.3 The Alpha Gap Report — Gaps Classified in Natural Language, Prioritized by Humans

@@ -5,7 +5,7 @@ chapter: 3
 status: v3
 written: 2026-05-24
 version: v3
-author: Minsoo Lee
+author: Minsoo Lee, Jihee Jo
 ip_check: done
 ---
 

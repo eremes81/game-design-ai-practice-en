@@ -3,7 +3,7 @@ title: "16.2 Collaborating with Other Disciplines — Sorting External Requests 
 part: 16
 chapter: 2
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 16.2 Collaborating with Other Disciplines — Sorting External Requests into 3 Tracks

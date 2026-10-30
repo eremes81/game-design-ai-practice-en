@@ -4,7 +4,7 @@ part: 24
 chapter: 3
 status: v3
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 24.3 Wikilinks and Document Hierarchy — Links and Classification, the Two Entrances to Search

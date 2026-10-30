@@ -3,7 +3,7 @@ title: "Cover · Preface · How to Read This Book"
 part: 0
 status: v3
 written: 2026-06-06
-author: 이민수
+author: 이민수, 조지희
 version: v3
 ---
 
@@ -13,7 +13,7 @@ version: v3
 
 The 304 rules, 48 tools, and automation systems that a director with 24 years in the industry actually ran on a mid-sized (10–50 person) team — exactly as they were used
 
-By Minsoo Lee · 2026
+By Minsoo Lee and Jihee Jo · Reviewed by Jihee Jo · 2026
 
 > Everything in this book is current as of the **first half of 2026**. Pricing, models, and features of AI tools change quickly, so please check each official page for the latest figures and installation steps.
 
@@ -21,10 +21,11 @@ By Minsoo Lee · 2026
 
 ## Distribution and Copyright
 
-This book is released free of charge, in the hope that it will be read widely. But whether you are reading the Korean original or an English or Japanese translation, one fact must stay attached to it everywhere: the original author of this book is **Minsoo Lee (이민수)**.
+This book is released free of charge, in the hope that it will be read widely. But whether you are reading the Korean original or an English or Japanese translation, one fact must stay attached to it everywhere: the original authors of this book are **Minsoo Lee (이민수) and Jihee Jo (조지희)**.
 
 - **License**: Creative Commons **Attribution-NonCommercial-ShareAlike 4.0** (CC BY-NC-SA 4.0)
-- **Original author**: Minsoo Lee (이민수), 2026
+- **Original authors**: Minsoo Lee (이민수) and Jihee Jo (조지희), 2026
+- **Review**: Jihee Jo (조지희)
 - **Canonical edition**: `https://eremes81.github.io/game-design-ai-practice` (the author's GitHub Pages — the canonical edition, under the author's editorial control)
 
 **You are free to do the following.** Personal study, noncommercial sharing and quotation, noncommercial translation, and use in internal study groups — provided you credit the original author, include a link to the canonical edition, and state clearly if you have modified the content or carried it into another language. Derivative works must be shared under the same terms.

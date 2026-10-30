@@ -4,7 +4,7 @@ part: 10
 chapter: 2
 status: v3
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 10.2 The Decision Verification 3-Layer Sensor — Where Human Review Evidence Lives

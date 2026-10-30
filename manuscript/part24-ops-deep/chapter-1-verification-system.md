@@ -4,7 +4,7 @@ part: 24
 chapter: 1
 status: v3
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 24.1 The Verification System — Catching Consistency, Links, and Staleness in Code

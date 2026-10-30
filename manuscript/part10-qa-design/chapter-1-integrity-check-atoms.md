@@ -2,7 +2,7 @@
 title: "10.1 The Integrity-Check Atom — A Cascade That Guards FKs Across 30 Sheets"
 part: 10
 chapter: 1
-author: 이민수
+author: 이민수, 조지희
 status: v3
 version: v3
 ---

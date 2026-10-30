@@ -3,7 +3,7 @@ title: "16.1 Combat TF Operations — Only Decisions Leave the Isolated Workspac
 part: 16
 chapter: 1
 version: v3
-author: 이민수
+author: 이민수, 조지희
 ---
 
 # 16.1 Combat TF Operations — Only Decisions Leave the Isolated Workspace as Canon

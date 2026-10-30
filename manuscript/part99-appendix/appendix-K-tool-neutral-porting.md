@@ -3,7 +3,7 @@ title: "Appendix K. Porting to Other LLMs and Harnesses"
 appendix: K
 status: v3
 written: 2026-06-06
-author: 이민수
+author: 이민수, 조지희
 version: v3
 ip_check: done
 ---

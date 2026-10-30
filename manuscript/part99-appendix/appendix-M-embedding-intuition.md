@@ -1,6 +1,6 @@
 ---
 title: "Appendix M. Dimension Vectors and Embeddings — An Intuition for Game Designers"
-author: 이민수
+author: 이민수, 조지희
 status: v3
 ip_check: done
 ---

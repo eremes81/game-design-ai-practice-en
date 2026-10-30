@@ -248,7 +248,8 @@ In the spirit of this book's honesty-first principle, here is exactly how this e
 
 | | |
 |---|---|
-| Author | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) |
+| Authors | Minsoo Lee (이민수) · [LinkedIn](https://www.linkedin.com/in/min-soo-lee-a2632367/) · Jihee Jo (조지희) |
+| Review | Jihee Jo (조지희) |
 | Publisher | BOOKK · paperback & PDF eBook / uPaper · EPUB eBook (Korean) |
 | ISBN | 979-11-12-21479-9 |
 | Published | 2026-06-11 |
@@ -260,9 +261,9 @@ This repository is the **English edition (markdown source)** of the same book, r
 
 This work is licensed under **[CC BY-NC-SA 4.0](LICENSE)** (Attribution-NonCommercial-ShareAlike).
 
-- Noncommercial sharing, translation, and adaptation are allowed with credit to the original author (Minsoo Lee · 이민수) and the source.
+- Noncommercial sharing, translation, and adaptation are allowed with credit to the original authors (Minsoo Lee · 이민수, Jihee Jo · 조지희) and the source.
 - Commercial use requires the author's separate permission.
 
 A few example raster image references (e.g. `char_skill_ui.png`) are placeholders without originals and may show as broken images — in the official print/PDF edition those slots are filled.
 
-ⓒ Minsoo Lee 2026
+ⓒ Minsoo Lee · Jihee Jo 2026
